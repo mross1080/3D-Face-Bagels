@@ -1,4 +1,4 @@
-#3D Face Bagels
+# 3D Face Bagels
 
 Posenet -> TouchDesigner
 
